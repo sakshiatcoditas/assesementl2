@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "312452385353",
+    "project_id": "biddingapp-d3c61",
+    "storage_bucket": "biddingapp-d3c61.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:312452385353:android:7853051482751d38a50d98",
+        "android_client_info": {
+          "package_name": "com.example.assesment"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "312452385353-2br6cn2d8mlvjcdcfm7b4fhpuakehblb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlExxLBPJfz-ZoAPYeH1dPq4BJZ6Af0Ck"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "312452385353-2br6cn2d8mlvjcdcfm7b4fhpuakehblb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
