@@ -1,5 +1,4 @@
-package com.example.assesment
-
+package com.example.assesment.utils
 
 sealed class AuthState {
     object Idle : AuthState() // Default state

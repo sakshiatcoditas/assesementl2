@@ -1,6 +1,4 @@
-package com.example.assesment
-
-
+package com.example.assesment.utils
 
 object AuthMessages{
     const val EMPTY_EMAIL_PASSWORD = "Email and password cannot be empty"
